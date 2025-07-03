@@ -1,71 +1,72 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19846497&assignment_repo_type=AssignmentRepo)
-# React.js and Tailwind CSS Assignment
+# MBALI TSHABANGU'S Task Manager
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A simple and efficient web-based Task Manager that helps users organize, track, and manage their daily tasks. Built for productivity with a clean UI  and responsive layout.
+ 
+[Live Demo](https://mbalis-task-manager-mwo4if43e-enhle21s-projects.vercel.app/)
 
-## Assignment Overview
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+---
+## Features
+- Add new tasks with descriptions
+- Track task status (comleted or pending)
+- Edit existing tasks
+- Delete tasks you no longer need
+- Fully responsive design (mobile-friendly)
 
-## Getting Started
+---
+## Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+-**Framework:** Likely uses basic JS or frameworks like React (adjust based on your tech stack)
+-**Hosting:** Vercel
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+---
+## How to Use
+1. **Visit the App**: Open [this link](https://mbalis-task-manager-mwo4if43e-enhle21s-projects.vercel.app/)
+2.**Add a Task**: Use the input field to write a task and hit "Add" or "Submit".
+3. **Manage Tasks**: Mark tasks as done, update them or delete as needed.
 
-## Files Included
+---
+## Deployemnt Instructions
+To delpoy this project to Vercel:
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
-
-## Requirements
-
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
-
-## Project Structure
-
+1.**Clone the repository** to your local machine.
+```bash
+git clone https://github.com/your-username/your-repo-name.
+git
+cd your-repo-name
 ```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
+2. **Install dependencies** (if using Node.js ore React):
+```bash
+npm install
 ```
+3. **Deploy to Vercel**:
+-Go to [https://vercel.com](https://vercel.com)
+-sign in and click on **"New Project"**
+- Import your GitHub repository
+Set build settings if necessary, the click **Deploy**
 
-## Submission
+4. **Done!** Your project will be live at `https://your-project-name.vercel.app`.
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+## Screenshots
+>_You can add screenshots here by uploading image files and using markdown syntaxk like:_
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
+```markdown
+![Task Manger Screenshot2.t](./images/screenshot.png)
+```
+---
+## Future Improvements
+- Add persistent storage using localStorage or a backend API
+- Add user login and personalized task boards
+- Includes deadlines and reminders
+- Add dark mode toggle
 
-## Resources
+## Developer
+**Plaesa Mbali Tshabangu**
+Passionate about building user-firendly web application that solve real-world problems.
 
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+##Contact
+- Email: tshabangupalesa272@gmail.com
+-GitHub: [@Enhle21](https://github.com/Enhle21)
+
+
+
